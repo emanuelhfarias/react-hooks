@@ -13,3 +13,6 @@ Simple application to demonstrate React Hooks
 
 See [src/App.js](https://github.com/emanuelhfarias/react-hooks/blob/master/src/App.js)
 
+<h1 align="center">
+  <img src=".github/demo.gif" />
+</h1>
